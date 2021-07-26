@@ -12,9 +12,7 @@ struct Game {
         
     }
     
-    func createTeams() {
-        
-    }
+    
     
     func startBattle() {
         
